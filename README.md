@@ -238,7 +238,7 @@ print(f"Canvas Base64 Payload Length: {len(result['canvas_base64'])}")
 * **Pritam Sunil Mahajan**
   * **M.Tech in Artificial Intelligence** — *Indian Institute of Technology (IIT) Ropar*
   * **B.Tech in Computer Engineering** — *Ramrao Adik Institute of Technology, D.Y. Patil Deemed to be University*
-  * **Specialization**: Computer Vision, Explainable AI (XAI), Neural Network Diagnostics, Deep Learning Architectures.
+
 
 ---
 
