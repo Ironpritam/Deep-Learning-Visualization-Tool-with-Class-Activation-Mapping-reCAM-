@@ -1,6 +1,6 @@
 # Re-CAM: Deep Learning Visualization & Explainable AI (XAI) Suite
 
-> A production-grade Explainable AI (XAI) and CNN model diagnostic toolkit developed at **IIT Ropar**. Features multi-algorithm visual explainers (**Vanilla CAM**, **Grad-CAM**, **Grad-CAM++**), multi-backbone vision neural networks (**ResNet-50**, **ResNet-18**, **VGG-16**, **MobileNet-V2**), automated Region of Interest (ROI) bounding box extraction, interactive Tkinter Desktop GUI, FastAPI REST microservice, and automated PDF audit report generation.
+> Modular Explainable AI (XAI) toolkit for visualizing and CNN model diagnostic toolkit developed at **IIT Ropar**. Features multi-algorithm visual explainers (**Vanilla CAM**, **Grad-CAM**, **Grad-CAM++**), multi-backbone vision neural networks (**ResNet-50**, **ResNet-18**, **VGG-16**, **MobileNet-V2**), automated Region of Interest (ROI) bounding box extraction, interactive Tkinter Desktop GUI, FastAPI REST microservice, and automated PDF audit report generation.
 
 [![Python 3.8+](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-EE4C2C.svg)](https://pytorch.org/)
